@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+*.egg-info/
+
+# Data (том файлууд)
+data/pose_per_individual_videos/
+data/pose_per_individual_videos.zip
+data/WLASL/
+data/*.zip
+
+# Model checkpoints
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Outputs (generated files)
+outputs/*.gif
+outputs/*.mp4
+outputs/*.png
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+data/WLASL_v0.3.json
+data/WLASL_v0.3.json
