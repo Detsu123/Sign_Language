@@ -69,6 +69,10 @@ data/
 
 Loss: MSE + 0.1 × temporal smoothness MSE
 
+
+
+
+
 ~1.2M параметр, 6GB VRAM-д амар багтана.
 
 ## Repository
