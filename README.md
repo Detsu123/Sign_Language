@@ -78,3 +78,8 @@ Loss: MSE + 0.1 × temporal smoothness MSE
 ## Repository
 
 WLASL Text-to-Pose: Sign language production prototype.
+
+
+demo хувилбар
+
+![demo](assets/demo.gif)
